@@ -81,7 +81,7 @@ body {
 
   /* 3. COLONNES (4 colonnes) :
         - colonne 1 : 200px (la barre latérale)
-        - colonnes 2, 3 et 4 : trois colonnes égales (1fr chacune) */
+        - colonnes 2, 3 et 4 : trois colonnes égales */
 
   /* 4. LIGNES (4 lignes) :
         - ligne 1 : 90px  (en-tête)
@@ -111,9 +111,9 @@ body {
 */
 
 
-/* 7. Style commun à tous les blocs (utilise le sélecteur .conteneur > * ) :
+/* 7. Style commun à tous les blocs :
       - padding : 20px
-      - border-radius : 25px  (coins arrondis, nouvelle propriété !)
+      - border-radius : 25px 
       - font-size : 24px */
 
 
@@ -147,17 +147,6 @@ body {
 ## Comment tester la version mobile ?
 
 Réduis la largeur de la fenêtre de résultat de CodePen en faisant glisser la barre qui sépare le code du résultat. Dès que la largeur passe sous 768px, les blocs doivent s'empiler.
-
----
-
-## Check-list finale
-
-- [ ] En version PC, ma page ressemble au schéma (barre latérale jaune à gauche sur toute la hauteur)
-- [ ] Les contenus 1, 2 et 3 sont côte à côte, de même largeur
-- [ ] Le pied de page est rose, à droite de la barre latérale
-- [ ] Les blocs ont des coins arrondis et 15px d'espace entre eux
-- [ ] En version mobile, les 7 blocs sont empilés dans le bon ordre
-- [ ] J'ai cliqué sur **Save** et je peux envoyer le lien de mon pen
 
 ---
 
