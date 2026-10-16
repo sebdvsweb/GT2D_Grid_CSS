@@ -11,12 +11,7 @@ Tu vas utiliser une nouvelle technique, **CSS Grid**, qui permet de placer des b
 
 ---
 
-## Étape 0 : Préparer ton pen
-
-1. Ouvre le pen de départ et clique sur **Fork** pour avoir ta propre copie.
-2. Colle le HTML ci-dessous dans le panneau **HTML**.
-3. Colle le CSS de départ (plus bas) dans le panneau **CSS**.
-4. Pense à cliquer sur **Save** régulièrement !
+## Étape 0 : Préparer ton HTML
 
 ### HTML (à coller tel quel, ne le modifie pas)
 
